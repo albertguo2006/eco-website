@@ -1,6 +1,6 @@
 $(window).scroll(function()
 {
-    if ($(this).scrollTop() > 450)
+    if ($(this).scrollTop() > 10)
     {
         $('.display-none').stop().fadeIn(800);
     }
