@@ -16,7 +16,7 @@
  }
 
  #fade {
-  background-image: linear-gradient(black 0%, rgb(128, 128, 128) 60%, rgb(248, 249, 250) 100%);
+  background-image: linear-gradient(black, white);
 }
 
 :root {
